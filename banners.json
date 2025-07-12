@@ -14,7 +14,7 @@
   {
     "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/b3.jpeg",
     "title": "Bideshi Bazar",
-    "link": "https://www.youtube.com/watch?v=0k32gxIdlI4"
+    "link": "https://www.youtube.com/watch?v=0k32gxIdlI4",
     "isVideo": true
   },
   {
@@ -22,12 +22,14 @@
     "title": "Special Offer",
     "link": "https://example.com/offer",
     "isVideo": false
-  },{
+  },
+  {
     "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/benar_image1.jpeg",
     "title": "Cleaner, Healthier",
     "link": "https://example.com/cleaner",
     "isVideo": false
-  },{
+  },
+  {
     "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/benar_image2.jpeg",
     "title": "Mango Mania",
     "link": "https://example.com/mango",
