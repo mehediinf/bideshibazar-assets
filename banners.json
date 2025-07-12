@@ -1,10 +1,28 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/benar_image1.jpeg",
-    "title": "Cleaner, Healthier",
+    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/b1.jpeg",
+    "title": "ESSENTIAL BOOTS FOR AUTUMN",
     "link": "https://example.com/cleaner"
   },
   {
+    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/b2.jpeg",
+    "title": "AUTUMN50",
+    "link": "https://example.com/mango"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/b3.jpeg",
+    "title": "DISCOUNT",
+    "link": "https://example.com/medicine"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/offer_image1.jpeg",
+    "title": "Special Offer",
+    "link": "https://example.com/offer"
+  },{
+    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/benar_image1.jpeg",
+    "title": "Cleaner, Healthier",
+    "link": "https://example.com/cleaner"
+  },{
     "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/benar_image2.jpeg",
     "title": "Mango Mania",
     "link": "https://example.com/mango"
@@ -13,10 +31,5 @@
     "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/offer_image.jpeg",
     "title": "Banglameds",
     "link": "https://example.com/medicine"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/offer_image1.jpeg",
-    "title": "Special Offer",
-    "link": "https://example.com/offer"
   }
 ]
