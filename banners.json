@@ -1,0 +1,22 @@
+[
+  {
+    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/benar_image1.jpeg",
+    "title": "Cleaner, Healthier",
+    "link": "https://example.com/cleaner"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/benar_image2.jpeg",
+    "title": "Mango Mania",
+    "link": "https://example.com/mango"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/offer_image.jpeg",
+    "title": "Banglameds",
+    "link": "https://example.com/medicine"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/mehediinf/bideshibazar-assets/main/images/offer_image1.jpeg",
+    "title": "Special Offer",
+    "link": "https://example.com/offer"
+  }
+]
